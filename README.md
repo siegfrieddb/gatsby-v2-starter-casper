@@ -81,7 +81,7 @@ NOTE: Feel free to check out [Gatsby Material Starter](https://github.com/Vagr9K
 Install this starter (assuming [Gatsby](https://github.com/gatsbyjs/gatsby/) is installed) by running from your CLI:
 
 ```sh
-gatsby new YourProjectName https://github.com/haysclark/gatsby-starter-casper
+gatsby new YourProjectName https://github.com/haysclark/gatsby-v2-starter-casper
 gatsby develop
 ```
 
